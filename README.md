@@ -18,8 +18,8 @@ Success is not final, Failure is not fatal, it's the courage to continue that co
 Scientific Platforms And Cosmic Explorations (SPACE) is a government registered hybrid international industry that develops innovative solutions, provide services, conducts research programs in the fields of Robotics, Artificial Intelligence, App Development, Web Development, Drone Technology, IOT, Bionics, Augmented Reality, Virtual Reality, Project Engineering, Autonomous Vehicles and on Cryogenics
 
 <h2 align="left">Other Brands I Own</h2>
-Kodacy
-Joseph Cybernetics
+<h8 align="left">Kodacy</h8>
+<h8 align="left">Joseph Cybernetics</h8>
 
 
 
