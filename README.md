@@ -1,7 +1,7 @@
 [![MasterHead](https://i0.wp.com/space.ind.in/wp-content/uploads/2022/07/Github-Akash-Banner.png?ssl=1)]
 <h1 align="center">Hi 👋, I'm Akash Joseph</h1>
 <h3 align="center">Founder & CEO of SPACE</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif”
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif”>
 
 - 📫 How to reach me **akash@space.ind.in**
 
