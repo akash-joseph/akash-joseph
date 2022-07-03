@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/space.ind.in/wp-content/uploads/2022/07/Github-Akash-Banner.png)](https://github.com/akash-joseph)
+[![MasterHead](https://static.wixstatic.com/media/25c84e_53a86eda7c7a408faff13fe7f7e67882~mv2.png/v1/fill/w_971,h_486,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Github%20Akash%20Banner.png)](https://github.com/akash-joseph)
 <h1 align="center">Hi 👋, I'm Akash Joseph</h1>
 <h3 align="center">...</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif”>
