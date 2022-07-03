@@ -10,6 +10,19 @@ Browsing across the landscape of my life, I was able to capture some of the beau
 
 - 📫 How to reach me **akash@space.ind.in**
 
+
+<h1 align="left">Who am I</h1>
+Success is not final, Failure is not fatal, it's the courage to continue that counts. Here are a few distinctions I owns now
+
+<h2 align="left">Founder & CEO of SPACE</h2>
+Scientific Platforms And Cosmic Explorations (SPACE) is a government registered hybrid international industry that develops innovative solutions, provide services, conducts research programs in the fields of Robotics, Artificial Intelligence, App Development, Web Development, Drone Technology, IOT, Bionics, Augmented Reality, Virtual Reality, Project Engineering, Autonomous Vehicles and on Cryogenics
+
+<h2 align="left">Other Brands I Own</h2>
+Kodacy
+Joseph Cybernetics
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/akashjosephofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashjosephofficial" height="30" width="40" /></a>
