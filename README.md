@@ -1,9 +1,9 @@
 [![MasterHead](https://static.wixstatic.com/media/25c84e_53a86eda7c7a408faff13fe7f7e67882~mv2.png/v1/fill/w_971,h_486,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Github%20Akash%20Banner.png)](https://github.com/akash-joseph)
-<h1 align="center">Hi 👋, I'm Akash Joseph & I loves to turn dreams into reality.</h1>
+<h2 align="center">Founder & CEO of Scientific Platforms And Cosmic Explorations (SPACE)</h2>
 
 Browsing across the landscape of my life, I was able to capture some of the beautiful moments where the technology redefined earth. It's very interesting to note that the discoveries and innovation changed the entire spectrum on how we live today and a thousand years before. Tech has made life easier and better, that's why I also choose to bring a change to the world. This pursuit has entangled me in starting my own enterprise known as SPACE (space.ind.in). From my childhood, I was always focused on building my dream, so it made me to swim in the ocean of endless technology and the dimensions on which they were built. So, learning a new thing always was a treasure hunt for me, I really enjoys it when it turns me flexible & creative.
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
 
 - 📫 How to reach me **akash@space.ind.in**
 
